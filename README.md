@@ -4,7 +4,7 @@ A recipe discovery application implementing range of recommendation systems for 
 
 ![mainscreen](report/startscreen.png)
 
-# How to run the application
+## How to run the application
 1. Install the required libraries by running `pip install -r requirements.txt`
 2. Start the application by running `python project/main.py`
    - If there are issues with NLTK, see section <ins>4: Instructions for use</ins> in the [report](Project_2_Final_Report_CSC111.pdf) detailed instructions
